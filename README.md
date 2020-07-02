@@ -1,1 +1,1 @@
-## Test Diagnóstico de COVID-19
+# Test Diagnóstico de COVID-19
